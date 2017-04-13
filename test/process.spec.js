@@ -1,5 +1,5 @@
 /* global describe it expect */
-const { Process } = require('../lib/process')
+const { Process } = require('../src/process')
 const wait = require('wait-promise')
 
 describe('Process', () => {

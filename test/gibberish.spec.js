@@ -1,6 +1,6 @@
 /* global describe test expect */
 import initVM from './testVM'
-import gibberish from '../lib/audio/gibberish'
+import gibberish from '../src/audio/gibberish'
 
 describe('Gibberish plugin', () => {
   test('Can specify options', () => {

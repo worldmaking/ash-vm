@@ -1,4 +1,4 @@
-import { VM } from '../lib/vm'
+import { VM } from '../src/vm'
 
 export const log = (name, value) => { console.log(name, value); return value }
 

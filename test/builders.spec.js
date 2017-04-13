@@ -6,7 +6,7 @@ import {
   print,
   rotate,
   chance
-} from '../lib/builders'
+} from '../grammars/builders'
 
 describe('Builders', () => {
   test('score 1', () => {

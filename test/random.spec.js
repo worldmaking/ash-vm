@@ -1,6 +1,6 @@
 /* global describe test expect */
 import initVM from './testVM'
-import random from '../lib/ext/random'
+import random from '../src/ext/random'
 
 const fakeRnd = (...values) => {
   let i = 0
